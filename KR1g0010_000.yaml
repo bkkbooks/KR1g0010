@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1g0010/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部七
+  hash: sha256:9b3ad78a068d370ed0a22a5815795ceda97dda23eb14dcbabe81faeb74005c0d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1g0010_WYG_000-1a, image: WYG0183/WYG0183-0737a.png}
+body:
+  text: 四如講稿五經總義類提要臣等謹按四如講稿六卷宋黃仲元撰仲元字善甫號四如莆田人咸淳七年進士授國子監簿不赴宋亡更名淵字天叟號韻鄉老人教授鄉里以終考福建通志暨莆田縣志皆載仲元有四書講稿今觀是書所講實兼及諸經不止四書其說多述朱子之緒綸然亦時出新義發前儒所未發如行夏之時則據禮運孔子得夏時於杞注謂夏四時之書而不取三正之說周官井田則謂周時皆用井田而不取鄭氏畿內用貢都鄙用助之說伯魚為周南召南則據詩鼓鐘及內傳季札觀樂謂南即是樂又謂周召為二公采邑非因二公得名雖按之經義不必一一吻合要為好學深思能自抒所見者也此本出其裔孫文炳家藏已有殘闕嘉靖丙午始雕板印行朱彛尊經義考但載其所著經史辨疑而不及是書當由刋在家孰閩中僻逺偶然未見傳本歟乾隆四十三年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:33668ea33b4debccf4c36d38f9c6d298737800ff2d640cd82e4b962f4dbbf7b6
+metadata:
+  title: 四如講稿
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:18:46.387771'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR1g0010/KR1g0010_000.txt
+hash: sha256:d8882496f7d02bbb57f096ee989892e649ee2039bd8f79fc3ae63c33bcb9ba34
